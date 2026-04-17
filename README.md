@@ -135,7 +135,7 @@ Based on **token overlap with retrieved evidence**
 The following diagram illustrates the complete **Task-Adaptive Hybrid GraphRAG pipeline**, showing both vector-based retrieval and knowledge graph reasoning paths:
 
 <p align="center">
-  <img src="architecture.png" alt="Hybrid GraphRAG Architecture" width="900"/>
+  <img src="Architecture.png" alt="Hybrid GraphRAG Architecture" width="900"/>
 </p>
 
 ### 🔍 Key Components Explained
