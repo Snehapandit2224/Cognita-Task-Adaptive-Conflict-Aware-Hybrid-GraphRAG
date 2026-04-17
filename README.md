@@ -226,7 +226,7 @@ The following diagram illustrates the complete **Task-Adaptive Hybrid GraphRAG p
 ```
 ├── COGNITA.ipynb        # Main implementation notebook
 ├── README.md            # Documentation
-└── assets/              # (optional visualizations / outputs)
+└── Architecture.png              # (optional visualizations / outputs)
 ```
 
 ---
