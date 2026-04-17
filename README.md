@@ -239,7 +239,7 @@ The following diagram illustrates the complete **Task-Adaptive Hybrid GraphRAG p
 * Requires reasoning across multiple documents
 
 👉 HuggingFace:
-[https://huggingface.co/datasets/hotpot_qa](https://huggingface.co/datasets/hotpot_qa)
+[https://huggingface.co/datasets/hotpot_qa](https://huggingface.co/datasets/hotpotqa/hotpot_qa)
 
 ---
 
