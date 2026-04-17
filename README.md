@@ -92,9 +92,7 @@ This determines how retrieval is performed.
 
 Instead of fixed weighting, we compute:
 
-[
-C_{fused} = \alpha \cdot C_{vec} + (1 - \alpha) \cdot C_{graph}
-]
+`C_fused = α · C_vec + (1 − α) · C_graph`
 
 Where:
 
